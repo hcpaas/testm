@@ -1,2 +1,3 @@
 # Base image
-FROM httpd:2.4
+# FROM myoblawrencesong/jekins-server:latest
+FROM jekins-server:latest
