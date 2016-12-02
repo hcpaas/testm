@@ -1,2 +1,3 @@
+# Dockerfile used for test mirror hub
 # Base image
-FROM myoblawrencesong/jekins-server:latest
+FROM tomcat:8.0.39-jre8
