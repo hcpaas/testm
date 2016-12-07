@@ -3,4 +3,4 @@
 # FROM debian:7
 # FROM haproxy:1.5
 # FROM zookeeper:3.4
-rails:onbuild
+FROM rails:onbuild
